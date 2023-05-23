@@ -8,6 +8,6 @@ Para correr time_fraction:
 
 Para correr time_criteria:
 ```
-$./build/time_criteria -l LISTA_ARCHIVOS.txt -t THREADS -h 0.8 -p $i -o NOMBRE_ARCHIVO_FILTRADO(Criteria).txt -b > NOMBRE_ARCHIVO_TIEMPOS(Criteria).txt;
+$./build/time_criteria -l LISTA_ARCHIVOS.txt -t THREADS -h 0.8 -p 6 -o NOMBRE_ARCHIVO_FILTRADO(Criteria).txt -b > NOMBRE_ARCHIVO_TIEMPOS(Criteria).txt;
 ```
 
